@@ -1,4 +1,8 @@
 # 📇 Employee Directory – Ajackus Front-End Assignment
+## 🔗 Live Demo
+
+👉 [View on GitHub Pages](https://employee-directory-assignment-plum.vercel.app/)
+
 
 ## 🔍 Overview
 
